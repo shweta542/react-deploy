@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        <h3>Learn React in a new way with the help of git hub</h3> 
+        <p>fdddddddddddddddddddddddddddddddddddd</p> 
         </a>
       </header>
     </div>
