@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
         <h3>Learn React in a new way with the help of git hub</h3> 
-        <p>sssfdgf</p> 
+        <p>shweta chauham</p> 
         </a>
       </header>
     </div>
